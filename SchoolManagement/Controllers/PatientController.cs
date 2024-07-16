@@ -41,7 +41,7 @@ namespace SchoolManagement.Controllers
             return BadRequest(new { success = false });
         }
 
-        [HttpDelete]
-        public async Task
+        //[HttpDelete]
+        //public async Task
     }
 }
